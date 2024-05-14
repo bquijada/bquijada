@@ -10,5 +10,4 @@ I’m a Computer Science graduate from Oregon State University, passionate about
 - Email: [bqlevy@gmail.com](mailto:bqlevy@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/brendalevy]([https://www.linkedin.com/in/brendalevy](https://www.linkedin.com/in/brenda-levy-16473125b/))
 
-⚡ Experience
-Proficient in: Python, C, JavaScript, TypeScript, React, HTML, CSS
+⚡ Experienced in: Python, C, JavaScript, TypeScript, React, HTML, CSS
