@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 Hello, I'm Brenda! 👋
 
 I’m a Computer Science graduate from Oregon State University, passionate about building innovative software solutions. I am interested in the full stack of development. I'm also very passionate about the outdoors and also work as a ski instructor and guide in the winter!
