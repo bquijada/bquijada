@@ -4,9 +4,7 @@
     <a href="https://www.linkedin.com/in/brenda-levy-16473125b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:bqlevy@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD" />
-    </a>
+    [![Gmail Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:bqlevy@gmail.com)
   </div>
   <img src="https://komarev.com/ghpvc/?username=bquijada&style=flat-square&color=blue" alt=""/>
   <h1>
