@@ -18,7 +18,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDg3ZjVvYjM2YTQxODUyb2I0a2FtM2V0cDZmOGJtMW1heWpxMGRhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HRXnPYf10Zx0wz4alF/giphy.gif" width="500" height="200"/>
 </div>
 
-***
+___
 ### :woman_technologist: About Me :
 
 
