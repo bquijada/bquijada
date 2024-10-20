@@ -22,7 +22,7 @@ ___
 ### :woman_technologist: About Me :
 
 
-I’m a Computer Science graduate from Oregon State University, passionate about building innovative software solutions. I am interested in the full stack of development. I'm also very passionate about the outdoors and also work as a ski instructor and guide in the winter!
+I’m a Computer Science graduate from Oregon State University, passionate about building innovative software solutions. I am interested in full stack development. I'm also very passionate about the outdoors and also work as a ski instructor and guide in the winter!
 
 📫 How to reach me:
 - Email: [bqlevy@gmail.com](mailto:bqlevy@gmail.com)
