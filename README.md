@@ -24,6 +24,14 @@ ___
 
 I’m a Computer Science graduate from Oregon State University, passionate about building innovative software solutions. I am interested in full stack development. I'm also very passionate about the outdoors and also work as a ski instructor and guide in the winter!
 
-📫 How to reach me:
-- Email: [bqlevy@gmail.com](mailto:bqlevy@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/brendalevy]([https://www.linkedin.com/in/brendalevy](https://www.linkedin.com/in/brenda-levy-16473125b/))
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
+
