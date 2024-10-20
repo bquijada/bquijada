@@ -22,7 +22,7 @@ ___
 ### :woman_technologist: About Me :
 
 
-I’m a Computer Science graduate from Oregon State University, passionate about building innovative software solutions. I am interested in full stack development. I'm also very passionate about the outdoors and also work as a ski instructor and guide in the winter!
+I’m a recent Computer Science graduate from Oregon State University working as a junior developer, passionate about building innovative software solutions. I am interested in full stack development. I'm also very passionate about the outdoors and also work as a ski instructor and guide in the winter!
 
 ---
 
@@ -37,4 +37,9 @@ I’m a Computer Science graduate from Oregon State University, passionate about
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bquijada&theme=dark&background=000000)](https://git.io/streak-stats)
 
