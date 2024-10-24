@@ -22,7 +22,7 @@ ___
 ### :woman_technologist: About Me :
 
 
-I’m a recent Computer Science graduate from Oregon State University working as a Junior Full Stack developer. I'm also very passionate about the outdoors and work as a ski instructor and guide in the winter!
+I’m a recent Computer Science graduate from Oregon State University working as a Junior Full Stack developer. I'm also very passionate about the outdoors and work as a ski instructor/in-bounds guide in the winter!
 
 ---
 
